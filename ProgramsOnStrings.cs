@@ -11,6 +11,7 @@ namespace LogicalPrograms
         /// input: AAAABBBCCDAAA
         /// output: 4A3B2C1D3A
         /// Company : Amazon
+        /// Company : Google
         /// </summary>
         public string StringEncoding(string stringToEncode)
         {
